@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Lab5.5, Configuration: Debug Win32 ------
+1>Lab5.5.cpp
+1>Lab5.5.vcxproj -> C:\Users\HP\source\repos\Lab5.5\Debug\Lab5.5.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
